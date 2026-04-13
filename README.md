@@ -36,12 +36,6 @@ To build a strong foundation in Python and improve problem-solving skills by pra
 
 ---
 
-## 📈 Progress
-
-- ✅ Day 1: Variables & Data Types
-- ⏳ More coming soon...
-
----
 
 ## 💡 Note
 
