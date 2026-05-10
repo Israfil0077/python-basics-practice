@@ -1,4 +1,4 @@
-# 🐍 Python Basics Practice
+# Python Basics Practice
 
 Welcome to my Python learning repository!
 
@@ -6,7 +6,7 @@ I am currently learning Python from scratch and using this repository to track m
 
 ---
 
-## 📚 About This Repository
+##  About This Repository
 
 This repo contains:
 
@@ -18,7 +18,7 @@ I will update this repository regularly as I continue learning.
 
 ---
 
-## 🚀 Topics Covered
+##  Topics Covered
 
 - Variables
 - Data Types
@@ -30,20 +30,20 @@ I will update this repository regularly as I continue learning.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To build a strong foundation in Python and improve problem-solving skills by practicing consistently.
 
 ---
 
 
-## 💡 Note
+##  Note
 
 This is a learning repository, so mistakes are part of the journey. Improvements will be made over time.
 
 ---
 
-## 📌 Future Plans
+##  Future Plans
 
 - Add problem-solving exercises
 - Small mini-projects
@@ -51,4 +51,4 @@ This is a learning repository, so mistakes are part of the journey. Improvements
 
 ---
 
-✨ Stay tuned as I grow my Python skills!
+ Stay tuned as I grow my Python skills!
